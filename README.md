@@ -10,8 +10,4 @@ Currently, I'm based in an undisclosed location and I'm open to new opportunitie
 
 html,css,nodejs,express,docker,git,github,graphql,react,redux,vue,flutter,aws,mongodb
 
-## Recent Activity
 
-- Pushed to [Nexus-Local-Agent-Fabric](https://github.com/vatistasdimitris01/Nexus-Local-Agent-Fabric) on 2026-01-10  
-- Pushed to [PANDA](https://github.com/vatistasdimitris01/PANDA) on 2026-01-08  
-- Created [KIPP---Kosmic-Intelligence-Pattern-Perceptron](https://github.com/vatistasdimitris01/KIPP---Kosmic-Intelligence-Pattern-Perceptron) on 2026-01-01
