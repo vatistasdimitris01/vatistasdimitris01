@@ -1,13 +1,28 @@
-## Hi there! 👋
+<div align="center">
+  <h3><code>vatistasdimitris01@github ~ $ ./contributions.sh</code></h3>
+  <img src="./contrib-heatmap.svg" width="860" alt="Dimitris Vatistas's animated GitHub contribution heatmap" />
 
-I'm **Vatistas Dimitris**, a passionate developer exploring the realms of technology and programming. I love creating innovative solutions that make a difference!
+  <br><br>
 
-## About Me
+  <h3><code>vatistasdimitris01@github ~ $ whoami</code></h3>
+  <table>
+    <tr>
+      <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="Animated ASCII portrait of Dimitris Vatistas" /></td>
+      <td valign="top"><img src="./info-card.svg" width="490" alt="Terminal-style profile card for Dimitris Vatistas" /></td>
+    </tr>
+  </table>
 
-Currently, I'm based in an undisclosed location and I'm open to new opportunities! I am dedicated to continuous learning and growth in the tech field.
+  <br>
 
-## Skills & Technologies
+  <a href="https://dvatistas.vercel.app">Portfolio</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:vatistasdimitris.01@gmail.com">Email</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.instagram.com/vatistasdimitris/">Instagram</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://x.com/vatistasdim">X</a>
 
-html,css,nodejs,express,docker,git,github,graphql,react,redux,vue,flutter,aws,mongodb
+  <br><br>
 
-
+  <sub>Full Stack Developer &amp; UI Designer building web, mobile, and AI-powered products.</sub>
+</div>
