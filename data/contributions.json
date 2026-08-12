@@ -1,14 +1,14 @@
 {
   "username": "vatistasdimitris01",
-  "fetched_at": "2026-08-12T11:05:32+00:00",
+  "fetched_at": "2026-08-12T13:01:47+00:00",
   "range": {
     "from": "2025-08-10",
     "to": "2026-08-12"
   },
   "stats": {
-    "total": 1456,
-    "active_days": 116,
-    "current_streak": 0,
+    "total": 1459,
+    "active_days": 117,
+    "current_streak": 1,
     "longest_streak": 8,
     "best_day": "2025-08-21",
     "best_day_count": 77
@@ -26,7 +26,7 @@
     "2026-05": 18,
     "2026-06": 54,
     "2026-07": 86,
-    "2026-08": 0
+    "2026-08": 3
   },
   "days": [
     {
@@ -1866,8 +1866,8 @@
     },
     {
       "date": "2026-08-12",
-      "count": 0,
-      "level": 0
+      "count": 3,
+      "level": 1
     }
   ]
 }
